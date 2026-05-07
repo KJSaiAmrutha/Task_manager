@@ -1,4 +1,4 @@
-# 🚀 Anti-Gravity Task Manager
+# 🚀Task Manager
 
 A stunning, production-grade full-stack Project Management Web App featuring an immersive "Anti-Gravity" UI design (glassmorphism, floating elements, glowing gradients) tailored for modern teams. 
 
